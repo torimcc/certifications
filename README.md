@@ -1,6 +1,7 @@
 **Tori's Certifications and Badges**
 ![Image of Linux Course Cert](https://github.com/torimcc/certifications/blob/master/Linux%20Course.jpg)
 ![Image of GitHub Course Cert](https://github.com/torimcc/certifications/blob/master/GitHub%20Course.jpg)  
+![Image of API Course Cert](https://github.com/torimcc/certifications/blob/master/API_course.jpg)  
 ![Image of Docker Course Cert](https://github.com/torimcc/certifications/blob/master/Docker%20course.jpg)  
 ![Image of Docker Course Cert](https://github.com/torimcc/certifications/blob/master/Docker%202.PNG)  
 ![Image of Blockchain Course Cert](https://github.com/torimcc/certifications/blob/master/Blockchain%20Course.jpg)  
