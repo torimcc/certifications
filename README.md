@@ -8,3 +8,5 @@
 ![Image of Python for DS](https://github.com/torimcc/certifications/blob/master/python-for-data-science.png)  
 ![Image of Data Science Foundations](https://github.com/torimcc/certifications/blob/master/data-science-foundations-level-1.png)  
 ![Image of IBM Blockchain Essentials](https://github.com/torimcc/certifications/blob/master/ibm-blockchain-essentials.png)  
+![Image of Agile Course Cert](https://github.com/torimcc/certifications/blob/master/API_course.jpg)  
+
